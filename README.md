@@ -58,3 +58,4 @@ At the start (0%), the elements have a size of 30x30 pixels.
 At the midpoint (50%), the elements shrink to 20x20 pixels.
 Summary:
 This CSS file is designed to style a webpage with a visually appealing loading animation. It centers the loader in the viewport, styles the loading elements, and animates them to create a dynamic, eye-catching effect. The animation delays for each element create a staggered effect, enhancing the overall visual experience.
+link: https://baryalaysafi.github.io/Creative-Loading-Animation/
